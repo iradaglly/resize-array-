@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\resize array\obj\Debug\net6.0\resize array.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\resize array\obj\Debug\net6.0\resize array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\resize array\obj\Debug\net6.0\resize array.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\resize array\obj\Debug\net6.0\resize array.AssemblyInfo.cs
+C:\Users\User\source\repos\resize array\obj\Debug\net6.0\resize array.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\resize array\bin\Debug\net6.0\resize array.exe
+C:\Users\User\source\repos\resize array\bin\Debug\net6.0\resize array.deps.json
+C:\Users\User\source\repos\resize array\bin\Debug\net6.0\resize array.runtimeconfig.json
+C:\Users\User\source\repos\resize array\bin\Debug\net6.0\resize array.dll
+C:\Users\User\source\repos\resize array\bin\Debug\net6.0\resize array.pdb
+C:\Users\User\source\repos\resize array\obj\Debug\net6.0\resize array.dll
+C:\Users\User\source\repos\resize array\obj\Debug\net6.0\refint\resize array.dll
+C:\Users\User\source\repos\resize array\obj\Debug\net6.0\resize array.pdb
+C:\Users\User\source\repos\resize array\obj\Debug\net6.0\resize array.genruntimeconfig.cache
+C:\Users\User\source\repos\resize array\obj\Debug\net6.0\ref\resize array.dll
